@@ -1,0 +1,9 @@
+{
+    "name":  "@azphalt/vegas.tracking.planar",
+    "version":  "1.0.0",
+    "description":  "Locks a graphic\u0027s position to the movement of the camera/scene.",
+    "private":  false,
+    "scripts":  {
+                    "build":  "node build.js"
+                }
+}
