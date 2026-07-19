@@ -1,5 +1,5 @@
 {
-  "id": "vegas.tracking.planar",
+  "id": "com.hereliesaz.azphalt.planar-tracking",
   "version": "1.0.0",
   "name": "Motion Tracking - Planar Pin",
   "description": "Locks a graphic's position to the movement of the camera/scene.",
