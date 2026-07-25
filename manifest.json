@@ -1,11 +1,12 @@
 {
+  "azphalt": "0.1",
   "id": "com.hereliesaz.azphalt.planar-tracking",
-  "version": "1.0.0",
   "name": "Motion Tracking - Planar Pin",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "MIT",
+  "compat": ">=0.1",
   "description": "Locks a graphic's position to the movement of the camera/scene.",
-  "files": {
-    "assets/preset.json": "sha256-placeholder"
-  },
   "assets": [
     {
       "type": "motion",
