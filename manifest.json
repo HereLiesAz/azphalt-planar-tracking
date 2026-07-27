@@ -4,9 +4,10 @@
   "name": "Motion Tracking - Planar Pin",
   "version": "1.0.0",
   "kind": "asset",
-  "license": "MIT",
+  "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
   "description": "Locks a graphic's position to the movement of the camera/scene.",
+  "author": "HereLiesAz",
   "assets": [
     {
       "type": "motion",
